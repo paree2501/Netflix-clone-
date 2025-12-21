@@ -1,4 +1,7 @@
 # Netflix-clone-
+
+Working link of my clone-https://paree2501.github.io/Netflix-clone-/
+
 This is a responsive Netflix homepage clone built using modern HTML5 and CSS3. It replicates the core layout, hero section, and horizontally scrolling content rows of the 2025 Netflix website. Features include responsive design with media queries, flexbox layout, and image sizing techniques.
 The goal was to meticulously recreate the user interface, focusing heavily on achieving a seamless viewing experience across all devices, from mobile phones to large desktop monitors.
 
